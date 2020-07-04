@@ -1,5 +1,5 @@
 version: 2
-endpoint: http://localhost:8080
+endpoint: https://mighty-brook-16510.herokuapp.com
 metadata_directory: metadata
 actions:
   kind: synchronous
