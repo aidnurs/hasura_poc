@@ -1,5 +1,8 @@
 - table:
     schema: public
+    name: car
+- table:
+    schema: public
     name: dog
 - table:
     schema: public
