@@ -7,3 +7,6 @@
 - table:
     schema: public
     name: laptop
+- table:
+    schema: public
+    name: phone
