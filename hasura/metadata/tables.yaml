@@ -1,9 +1,1 @@
-- table:
-    schema: public
-    name: house
-- table:
-    schema: public
-    name: local_table
-- table:
-    schema: public
-    name: todo
+[]
